@@ -16,13 +16,26 @@ As someone who has always been fascinated by the depths of human psychology, I a
 4. Determine Trends Over Time: Identify any long-term trends in these rates, focusing on whether rates are increasing or decreasing and in which regions or demographics these changes are most 
    prominent.
 
+- Project Plan for Data Analysis
+  1. Understanding data, goal definition: specify connections to investigate, overview of data, set time frame, regions
+  2. Data Cleaning/Preparation: duplicates, missing values, calculate key variables
+  3. SQL Database: maybe(!)
+  4. EDA: basic statistics, examine correlations, analyze trends
+  5. Hypothesis-Driven Analysis: what relationships do I expect?, test
+  6. Results/interpretation: summarize Key Insights, interpret main findings, significance of relationships found
+  7. Presentation and Documentation: visualizations of findings (tableau), document methods, analyses, findings
 
-WORLD BANK GROUP | Prosperity Data 360
-- Gender inequality dataset:
-https://prosperitydata360.worldbank.org/en/dataset/WB+GS
-- OECD Income Distribution Database (IDD)
+
 KAGGLE
 - World Population Data
 https://www.kaggle.com/datasets/madhurpant/world-population-data
 - Homicide rate, Suicide rate and GDP 1970-2020
 https://www.kaggle.com/datasets/prasertk/homicide-suicide-rate-and-gdp
+
+
+WORLD BANK GROUP | Prosperity Data 360
+- Gender inequality dataset:
+https://prosperitydata360.worldbank.org/en/dataset/WB+GS
+- OECD Income Distribution Database (IDD)
+
+
