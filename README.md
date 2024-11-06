@@ -37,5 +37,6 @@ WORLD BANK GROUP | Prosperity Data 360
 - Gender inequality dataset:
 https://prosperitydata360.worldbank.org/en/dataset/WB+GS
 - OECD Income Distribution Database (IDD)
+- World Bank Wealth Equity Indicators
 
 
