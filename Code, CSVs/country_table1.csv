@@ -1,0 +1,184 @@
+iso3c,country,adminregion,ParentLocationCode,ParentLocation,area,population,pop_per_km_sq,stability,rights,health,safety,costs,iq,education_expenditure_per_inhabitant,daily_max_temp
+AFG,Afghanistan,South Asia,EMR,Eastern Mediterranean,652860.0,39840000.0,61.0,28.0,9.0,20.0,19.0,63.0,80.0,13.0,24.4
+ALB,Albania,Europe & Central Asia (excluding high income),EUR,Europe,,,,58.0,43.0,64.0,84.0,57.0,84.0,55.0,21.2
+DZA,Algeria,Middle East & North Africa (excluding high income),AFR,Africa,,,,35.0,24.0,61.0,97.0,55.0,82.0,109.0,26.5
+AGO,Angola,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,27.0,24.0,10.0,55.0,53.0,,,
+ATG,Antigua and Barbuda,,AMR,Americas,,,,,,,,,,,
+ARG,Argentina,Latin America & Caribbean (excluding high income),AMR,Americas,2780400.0,45810000.0,16.5,41.0,44.0,79.0,78.0,41.0,90.0,278.0,23.9
+ARM,Armenia,Europe & Central Asia (excluding high income),EUR,Europe,,,,36.0,51.0,70.0,93.0,57.0,92.0,32.0,14.8
+AUS,Australia,,WPR,Western Pacific,7741220.0,25740000.0,3.3,86.0,92.0,87.0,100.0,23.0,99.0,,24.4
+AUT,Austria,,EUR,Europe,,,,83.0,91.0,97.0,98.0,37.0,100.0,,13.1
+AZE,Azerbaijan,Europe & Central Asia (excluding high income),EUR,Europe,,,,46.0,24.0,70.0,38.0,64.0,87.0,57.0,20.5
+BHS,Bahamas,,AMR,Americas,,,,,,,,,,,
+BHR,Bahrain,,EMR,Eastern Mediterranean,778.0,1750000.0,2247.2,59.0,45.0,61.0,92.0,72.0,83.0,401.0,32.6
+BGD,Bangladesh,South Asia,SEAR,South-East Asia,147630.0,166300000.0,1126.5,43.0,26.0,44.0,74.0,61.0,77.0,9.0,29.8
+BRB,Barbados,,AMR,Americas,430.0,290000.0,669.1,,,,,,,,
+BLR,Belarus,Europe & Central Asia (excluding high income),EUR,Europe,,,,37.0,28.0,82.0,81.0,40.0,,,
+BEL,Belgium,,EUR,Europe,30530.0,11590000.0,379.6,75.0,87.0,88.0,92.0,32.0,100.0,,14.8
+BLZ,Belize,Latin America & Caribbean (excluding high income),AMR,Americas,,,,,,,,,,,
+BEN,Benin,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+BTN,Bhutan,South Asia,SEAR,South-East Asia,,,,,,,,,,,
+BOL,Bolivia (Plurinational State of),Latin America & Caribbean (excluding high income),AMR,Americas,,,,,,,,,,,
+BIH,Bosnia and Herzegovina,Europe & Central Asia (excluding high income),EUR,Europe,,,,47.0,38.0,69.0,86.0,70.0,,,
+BWA,Botswana,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+BRA,Brazil,Latin America & Caribbean (excluding high income),AMR,Americas,8515770.0,213990000.0,25.1,37.0,45.0,63.0,60.0,44.0,83.0,223.0,30.7
+BRN,Brunei Darussalam,,WPR,Western Pacific,,,,,,,,,,,
+BGR,Bulgaria,Europe & Central Asia (excluding high income),EUR,Europe,,,,68.0,51.0,81.0,85.0,62.0,91.0,114.0,18.1
+BFA,Burkina Faso,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+BDI,Burundi,Sub-Saharan Africa (excluding high income),AFR,Africa,27830.0,12260000.0,440.4,31.0,11.0,9.0,62.0,66.0,,,
+CPV,Cabo Verde,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+KHM,Cambodia,East Asia & Pacific (excluding high income),WPR,Western Pacific,181040.0,16950000.0,93.6,56.0,19.0,28.0,68.0,66.0,88.0,7.0,32.5
+CMR,Cameroon,Sub-Saharan Africa (excluding high income),AFR,Africa,475440.0,27220000.0,57.3,40.0,19.0,9.0,27.0,51.0,65.0,29.0,31.0
+CAN,Canada,,AMR,Americas,9984670.0,38250000.0,3.8,85.0,92.0,78.0,97.0,37.0,101.0,,7.3
+CAF,Central African Republic,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+TCD,Chad,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,46.0,12.0,0.0,31.0,49.0,65.0,10.0,35.4
+CHL,Chile,,AMR,Americas,,,,66.0,79.0,68.0,87.0,54.0,89.0,210.0,18.4
+CHN,China,East Asia & Pacific (excluding high income),WPR,Western Pacific,9562910.0,1412360000.0,147.7,69.0,37.0,67.0,90.0,38.0,104.0,27.0,19.0
+COL,Colombia,Latin America & Caribbean (excluding high income),AMR,Americas,,,,47.0,46.0,62.0,30.0,46.0,82.0,128.0,30.2
+COM,Comoros,Sub-Saharan Africa (excluding high income),AFR,Africa,1861.0,890000.0,477.4,,,,,,,,
+COD,Democratic Republic of the Congo,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+COG,Congo,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+CRI,Costa Rica,Latin America & Caribbean (excluding high income),AMR,Americas,,,,69.0,69.0,64.0,73.0,46.0,86.0,216.0,28.7
+CIV,Cote d'Ivoire,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+HRV,Croatia,,EUR,Europe,,,,67.0,58.0,80.0,91.0,67.0,95.0,353.0,18.2
+CUB,Cuba,Latin America & Caribbean (excluding high income),AMR,Americas,,,,,,,,,,,
+CYP,Cyprus,,EUR,Europe,,,,67.0,68.0,77.0,93.0,53.0,,,
+CZE,Czechia,,EUR,Europe,,,,78.0,73.0,90.0,93.0,49.0,99.0,387.0,12.8
+DNK,Denmark,,EUR,Europe,42920.0,5860000.0,136.5,86.0,100.0,85.0,95.0,35.0,99.0,,12.5
+DJI,Djibouti,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,,,,,,,,
+DOM,Dominican Republic,Latin America & Caribbean (excluding high income),AMR,Americas,,,,50.0,41.0,52.0,67.0,49.0,,,
+ECU,Ecuador,Latin America & Caribbean (excluding high income),AMR,Americas,256370.0,17890000.0,69.8,61.0,36.0,60.0,88.0,61.0,83.0,68.0,24.3
+EGY,Egypt,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,1001450.0,104260000.0,104.1,36.0,26.0,44.0,83.0,59.0,83.0,58.0,30.0
+SLV,El Salvador,Latin America & Caribbean (excluding high income),AMR,Americas,21040.0,6520000.0,309.8,59.0,39.0,49.0,21.0,50.0,,,
+GNQ,Equatorial Guinea,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,56.0,158.0,30.0
+ERI,Eritrea,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,63.0,13.0,29.2
+EST,Estonia,,EUR,Europe,,,,80.0,89.0,81.0,92.0,43.0,99.0,459.0,10.1
+SWZ,Eswatini,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+ETH,Ethiopia,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,27.0,31.0,16.0,31.0,63.0,61.0,8.0,27.2
+FJI,Fiji,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,83.0,151.0,29.5
+FIN,Finland,,EUR,Europe,338450.0,5540000.0,16.4,85.0,100.0,87.0,93.0,46.0,101.0,,8.2
+FRA,France,,EUR,Europe,549087.0,67500000.0,122.9,72.0,83.0,91.0,93.0,29.0,98.0,,16.8
+GAB,Gabon,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,48.0,25.0,32.0,52.0,46.0,60.0,192.0,29.8
+GMB,Gambia,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,47.0,38.0,21.0,79.0,58.0,60.0,13.0,32.9
+GEO,Georgia,Europe & Central Asia (excluding high income),EUR,Europe,,,,46.0,63.0,67.0,88.0,58.0,92.0,38.0,20.2
+DEU,Germany,,EUR,Europe,357580.0,83130000.0,232.5,82.0,94.0,96.0,95.0,44.0,100.0,,13.7
+GHA,Ghana,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,48.0,51.0,26.0,95.0,42.0,69.0,34.0,32.1
+GRC,Greece,,EUR,Europe,131960.0,10660000.0,80.8,60.0,61.0,89.0,88.0,44.0,92.0,541.0,22.3
+GRD,Grenada,Latin America & Caribbean (excluding high income),AMR,Americas,340.0,110000.0,332.4,,,,,,,,
+GTM,Guatemala,Latin America & Caribbean (excluding high income),AMR,Americas,,,,52.0,28.0,44.0,71.0,45.0,,,
+GIN,Guinea,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+GNB,Guinea-Bissau,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,62.0,13.0,33.4
+GUY,Guyana,Latin America & Caribbean (excluding high income),AMR,Americas,,,,,,,,,,,
+HTI,Haiti,Latin America & Caribbean (excluding high income),AMR,Americas,27750.0,11540000.0,415.9,,,,,,,,
+HND,Honduras,Latin America & Caribbean (excluding high income),AMR,Americas,,,,46.0,26.0,46.0,43.0,57.0,,,
+HUN,Hungary,,EUR,Europe,,,,70.0,57.0,81.0,88.0,56.0,98.0,392.0,16.6
+ISL,Iceland,,EUR,Europe,,,,82.0,92.0,87.0,97.0,36.0,101.0,,8.1
+IND,India,South Asia,SEAR,South-East Asia,3287259.0,1393410000.0,423.9,48.0,46.0,35.0,79.0,45.0,81.0,22.0,31.7
+IDN,Indonesia,East Asia & Pacific (excluding high income),SEAR,South-East Asia,1913580.0,276360000.0,144.4,61.0,44.0,39.0,98.0,54.0,84.0,29.0,31.6
+IRN,Iran (Islamic Republic of),Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,,,,,,,,
+IRQ,Iraq,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,16.0,12.0,42.0,29.0,75.0,86.0,,32.3
+IRL,Ireland,,EUR,Europe,70280.0,5030000.0,71.5,84.0,90.0,82.0,96.0,35.0,94.0,,13.2
+ISR,Israel,,EUR,Europe,22070.0,9360000.0,424.3,57.0,72.0,84.0,81.0,36.0,94.0,,25.4
+ITA,Italy,,EUR,Europe,301340.0,59070000.0,196.0,65.0,65.0,87.0,89.0,30.0,97.0,,17.8
+JAM,Jamaica,Latin America & Caribbean (excluding high income),AMR,Americas,,,,55.0,52.0,51.0,37.0,47.0,,,
+JPN,Japan,,WPR,Western Pacific,377970.0,125680000.0,332.5,87.0,86.0,92.0,97.0,27.0,105.0,,19.2
+JOR,Jordan,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,50.0,48.0,60.0,77.0,63.0,,,
+KAZ,Kazakhstan,Europe & Central Asia (excluding high income),EUR,Europe,,,,54.0,36.0,69.0,82.0,60.0,92.0,97.0,13.5
+KEN,Kenya,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,41.0,33.0,25.0,72.0,45.0,71.0,33.0,27.4
+KIR,Kiribati,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,,,
+PRK,Democratic People's Republic of Korea,East Asia & Pacific (excluding high income),SEAR,South-East Asia,,,,,,,,,,,
+KOR,Republic of Korea,,WPR,Western Pacific,,,,,,,,,,,
+KWT,Kuwait,,EMR,Eastern Mediterranean,,,,66.0,47.0,66.0,88.0,74.0,85.0,,34.2
+KGZ,Kyrgyzstan,Europe & Central Asia (excluding high income),EUR,Europe,,,,36.0,27.0,57.0,58.0,71.0,,,
+LAO,Lao People's Democratic Republic,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,,,
+LVA,Latvia,,EUR,Europe,,,,74.0,74.0,77.0,87.0,55.0,,,
+LBN,Lebanon,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,10450.0,6770000.0,647.8,10.0,25.0,65.0,76.0,41.0,,,
+LSO,Lesotho,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,36.0,40.0,12.0,24.0,57.0,,,
+LBR,Liberia,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+LBY,Libya,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,,,,,,,,
+LTU,Lithuania,,EUR,Europe,,,,77.0,75.0,82.0,88.0,43.0,,,
+LUX,Luxembourg,,EUR,Europe,2590.0,640000.0,246.7,93.0,99.0,85.0,100.0,46.0,99.0,,14.6
+MDG,Madagascar,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,49.0,28.0,22.0,86.0,66.0,,,
+MWI,Malawi,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,42.0,38.0,20.0,78.0,50.0,,,
+MYS,Malaysia,East Asia & Pacific (excluding high income),WPR,Western Pacific,330345.0,32780000.0,99.2,70.0,58.0,61.0,91.0,46.0,93.0,273.0,32.1
+MDV,Maldives,South Asia,SEAR,South-East Asia,300.0,540000.0,1812.1,64.0,39.0,72.0,87.0,59.0,,,
+MLI,Mali,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+MLT,Malta,,EUR,Europe,320.0,520000.0,1615.2,86.0,72.0,91.0,92.0,41.0,97.0,619.0,23.1
+MRT,Mauritania,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+MUS,Mauritius,Sub-Saharan Africa (excluding high income),AFR,Africa,2040.0,1270000.0,620.6,,,,,,87.0,167.0,26.8
+MEX,Mexico,Latin America & Caribbean (excluding high income),AMR,Americas,1964375.0,130260000.0,66.3,46.0,37.0,54.0,52.0,34.0,86.0,279.0,29.8
+FSM,Micronesia (Federated States of),East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,,,
+MDA,Republic of Moldova,Europe & Central Asia (excluding high income),EUR,Europe,,,,,,,,,,,
+MNG,Mongolia,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,59.0,44.0,60.0,72.0,70.0,98.0,50.0,8.0
+MNE,Montenegro,Europe & Central Asia (excluding high income),EUR,Europe,,,,50.0,52.0,68.0,85.0,61.0,84.0,,21.0
+MAR,Morocco,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,56.0,40.0,53.0,87.0,45.0,82.0,89.0,24.0
+MOZ,Mozambique,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,36.0,26.0,10.0,4.0,53.0,,,
+MMR,Myanmar,East Asia & Pacific (excluding high income),SEAR,South-East Asia,,,,,,,,,,,
+NAM,Namibia,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+NPL,Nepal,South Asia,SEAR,South-East Asia,,,,53.0,35.0,34.0,89.0,57.0,77.0,10.0,24.8
+NLD,Netherlands (Kingdom of the),,EUR,Europe,,,,,,,,,,,
+NZL,New Zealand,,WPR,Western Pacific,267710.0,5120000.0,19.1,91.0,100.0,81.0,95.0,26.0,100.0,,17.3
+NIC,Nicaragua,Latin America & Caribbean (excluding high income),AMR,Americas,,,,45.0,18.0,45.0,73.0,41.0,,,
+NER,Niger,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+NGA,Nigeria,Sub-Saharan Africa (excluding high income),AFR,Africa,923770.0,211400000.0,228.8,18.0,24.0,12.0,23.0,57.0,70.0,,33.7
+MKD,North Macedonia,Europe & Central Asia (excluding high income),EUR,Europe,,,,56.0,48.0,70.0,87.0,64.0,,,
+NOR,Norway,,EUR,Europe,385203.0,5410000.0,14.0,89.0,99.0,90.0,99.0,42.0,99.0,,9.0
+OMN,Oman,,EMR,Eastern Mediterranean,,,,68.0,51.0,64.0,92.0,68.0,82.0,385.0,33.9
+PAK,Pakistan,South Asia,EMR,Eastern Mediterranean,796100.0,225200000.0,282.9,24.0,26.0,31.0,92.0,63.0,82.0,16.0,30.9
+PAN,Panama,Latin America & Caribbean (excluding high income),AMR,Americas,,,,,,,,,,,
+PNG,Papua New Guinea,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,,,
+PRY,Paraguay,Latin America & Caribbean (excluding high income),AMR,Americas,,,,57.0,37.0,51.0,76.0,66.0,,,
+PER,Peru,Latin America & Caribbean (excluding high income),AMR,Americas,,,,55.0,46.0,54.0,84.0,50.0,,,
+PHL,Philippines,East Asia & Pacific (excluding high income),WPR,Western Pacific,300000.0,111050000.0,370.2,52.0,39.0,45.0,67.0,46.0,86.0,38.0,31.9
+POL,Poland,,EUR,Europe,312680.0,37780000.0,120.8,69.0,67.0,79.0,93.0,58.0,97.0,298.0,13.4
+PRT,Portugal,,EUR,Europe,92226.0,10300000.0,111.7,80.0,77.0,82.0,93.0,44.0,95.0,725.0,21.3
+QAT,Qatar,,EMR,Eastern Mediterranean,11610.0,2930000.0,252.4,77.0,60.0,62.0,94.0,70.0,78.0,,33.7
+ROU,Romania,Europe & Central Asia (excluding high income),EUR,Europe,238400.0,19120000.0,80.2,64.0,57.0,73.0,88.0,68.0,90.0,120.0,16.0
+RUS,Russian Federation,Europe & Central Asia (excluding high income),EUR,Europe,,,,,,,,,,,
+RWA,Rwanda,Sub-Saharan Africa (excluding high income),AFR,Africa,26340.0,13280000.0,504.0,68.0,48.0,27.0,72.0,58.0,,,
+WSM,Samoa,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,76.0,63.0,50.0,83.0,58.0,,,
+STP,Sao Tome and Principe,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,58.0,55.0,28.6
+SAU,Saudi Arabia,,EMR,Eastern Mediterranean,2149690.0,35340000.0,16.4,53.0,45.0,61.0,90.0,76.0,81.0,700.0,32.5
+SEN,Senegal,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,64.0,47.0,33.0,91.0,56.0,60.0,37.0,35.3
+SRB,Serbia,Europe & Central Asia (excluding high income),EUR,Europe,,,,54.0,44.0,71.0,87.0,57.0,89.0,164.0,18.3
+SYC,Seychelles,,AFR,Africa,,,,,,,,,,,
+SLE,Sierra Leone,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,38.0,34.0,6.0,69.0,64.0,,,
+SGP,Singapore,,WPR,Western Pacific,719.0,5450000.0,7584.9,83.0,89.0,79.0,100.0,55.0,108.0,908.0,31.5
+SVK,Slovakia,,EUR,Europe,,,,73.0,67.0,77.0,89.0,42.0,,,
+SVN,Slovenia,,EUR,Europe,,,,80.0,73.0,83.0,96.0,57.0,,,
+SLB,Solomon Islands,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,,,
+SOM,Somalia,Sub-Saharan Africa (excluding high income),EMR,Eastern Mediterranean,,,,,,,,,,,
+ZAF,South Africa,Sub-Saharan Africa (excluding high income),AFR,Africa,1219090.0,60040000.0,49.3,47.0,54.0,31.0,43.0,49.0,70.0,247.0,24.7
+SSD,South Sudan,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+ESP,Spain,,EUR,Europe,505935.0,47330000.0,93.5,64.0,73.0,87.0,95.0,43.0,97.0,885.0,21.0
+LKA,Sri Lanka,South Asia,SEAR,South-East Asia,65610.0,22160000.0,337.7,52.0,43.0,62.0,92.0,56.0,79.0,30.0,29.7
+LCA,Saint Lucia,Latin America & Caribbean (excluding high income),AMR,Americas,620.0,180000.0,297.4,,,,,,,,
+VCT,Saint Vincent and the Grenadines,Latin America & Caribbean (excluding high income),AMR,Americas,390.0,110000.0,285.3,,,,,,,,
+SDN,Sudan,Sub-Saharan Africa (excluding high income),EMR,Eastern Mediterranean,,,,8.0,11.0,18.0,55.0,66.0,70.0,15.0,36.5
+SUR,Suriname,Latin America & Caribbean (excluding high income),AMR,Americas,,,,44.0,43.0,50.0,73.0,62.0,,,
+SWE,Sweden,,EUR,Europe,447430.0,10420000.0,23.3,87.0,99.0,85.0,96.0,40.0,99.0,,9.9
+CHE,Switzerland,,EUR,Europe,41290.0,8700000.0,210.6,91.0,99.0,93.0,99.0,44.0,102.0,,15.1
+SYR,Syrian Arab Republic,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,,,,,,,,
+TJK,Tajikistan,Europe & Central Asia (excluding high income),EUR,Europe,,,,51.0,13.0,53.0,58.0,51.0,,,
+TZA,United Republic of Tanzania,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,,,,,,,,
+THA,Thailand,East Asia & Pacific (excluding high income),SEAR,South-East Asia,513120.0,69950000.0,136.3,61.0,40.0,65.0,96.0,55.0,89.0,108.0,33.0
+TLS,Timor-Leste,East Asia & Pacific (excluding high income),SEAR,South-East Asia,,,,65.0,37.0,42.0,42.0,67.0,60.0,30.0,30.9
+TGO,Togo,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,49.0,29.0,12.0,75.0,54.0,,,
+TON,Tonga,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,,,
+TTO,Trinidad and Tobago,,AMR,Americas,,,,68.0,50.0,61.0,39.0,48.0,,,
+TUN,Tunisia,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,38.0,49.0,60.0,82.0,47.0,,,
+TUR,Türkiye,Europe & Central Asia (excluding high income),EUR,Europe,,,,,,,,,,,
+TKM,Turkmenistan,Europe & Central Asia (excluding high income),EUR,Europe,,,,,,,,,,,
+UGA,Uganda,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,48.0,30.0,14.0,62.0,57.0,,,
+UKR,Ukraine,Europe & Central Asia (excluding high income),EUR,Europe,603550.0,43810000.0,72.6,42.0,36.0,71.0,82.0,60.0,95.0,85.0,14.3
+ARE,United Arab Emirates,,EMR,Eastern Mediterranean,83600.0,9990000.0,119.5,82.0,65.0,65.0,93.0,67.0,83.0,378.0,34.4
+GBR,United Kingdom of Great Britain and Northern Ireland,,EUR,Europe,,,,,,,,,,,
+USA,United States of America,,AMR,Americas,,,,,,,,,,,
+URY,Uruguay,,AMR,Americas,,,,67.0,79.0,75.0,82.0,47.0,,,
+UZB,Uzbekistan,Europe & Central Asia (excluding high income),EUR,Europe,,,,,,,,,,,
+VUT,Vanuatu,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,,,
+VEN,Venezuela (Bolivarian Republic of),,AMR,Americas,,,,,,,,,,,
+VNM,Viet Nam,East Asia & Pacific (excluding high income),WPR,Western Pacific,,,,,,,,,,,
+YEM,Yemen,Middle East & North Africa (excluding high income),EMR,Eastern Mediterranean,,,,,,,,,,,
+ZMB,Zambia,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,34.0,32.0,18.0,60.0,58.0,72.0,13.0,28.9
+ZWE,Zimbabwe,Sub-Saharan Africa (excluding high income),AFR,Africa,,,,29.0,14.0,13.0,74.0,37.0,72.0,122.0,27.1
