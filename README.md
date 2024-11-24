@@ -42,4 +42,5 @@ https://prosperitydata360.worldbank.org/en/dataset/WB+GS
 - OECD Income Distribution Database (IDD)
 - World Bank Wealth Equity Indicators
 
-
+Link to the presentation:
+https://docs.google.com/presentation/d/1HQtwnuvaWmhgjzk88RFqvCLJ_MEUUnjxGeROnMgY4Kw/edit#slide=id.p1
