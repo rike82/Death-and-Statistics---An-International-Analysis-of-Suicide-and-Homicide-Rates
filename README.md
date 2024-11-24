@@ -1,3 +1,4 @@
+***Death and Statistics - An international Analysis of Suicide and Homicide Rates***
 - **Project overview**
 
 This project dives into the complex relationship between suicide and homicide rates, exploring how gender, societal factors, and psychological challenges intersect in these acts. Although both suicide and homicide result in the taking of life, they differ in motivations and implications, sparking questions about human psychology, societal pressures, and underlying mental health struggles.
